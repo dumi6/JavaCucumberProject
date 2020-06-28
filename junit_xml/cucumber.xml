@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="20.014306">
+    <testcase classname="LoginToUrl" name="LoginToUrl" time="10.136696">
+        <system-out>
+            <![CDATA[Given User is already on login page.........................................passed
+When User enters username and password......................................passed
+Then User clicks the submit button..........................................passed
+And User is on home page....................................................passed
+And User closes the UrlPage.................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="LoginToUrl" name="AddNewUser" time="9.87761">
+        <system-out>
+            <![CDATA[Given User is already on home page..........................................passed
+When User click on Admin....................................................passed
+And Add user add Employee name, username and password.......................passed
+Then User click on save to update new user..................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

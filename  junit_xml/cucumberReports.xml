@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="9.922299">
+    <testcase classname="AccessUrl" name="LoginToUrl" time="9.922299">
+        <system-out>
+            <![CDATA[Given User is already on login page.........................................passed
+When User enters username and password......................................passed
+Then User clicks the submit button..........................................passed
+And User is on home page....................................................passed
+And User closes the UrlPage.................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
